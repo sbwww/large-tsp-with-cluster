@@ -1,0 +1,7 @@
+*.pdf
+*.svg
+*.doc
+*.docx
+*.xls
+*.xlsx
+docs/*
